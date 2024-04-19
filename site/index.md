@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: Ramsey Rowing Club
 ---
 {% include_relative _index/fb-script.html %}
