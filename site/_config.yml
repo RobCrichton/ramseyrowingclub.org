@@ -7,6 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: RobCrichton
 github_username:  RobCrichton
 
+portfolio_type: carousel
+
 sass:
     style: compressed
 
