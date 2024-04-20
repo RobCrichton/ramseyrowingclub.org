@@ -4,6 +4,8 @@ title: Ramsey Rowing Club
 ---
 {% include_relative _index/fb-script.html %}
 
+{% include parallax-banner.html image=rowers-at-sea.jpg %}
+
 {% include_relative _index/01-welcome.md %}
 
 {% include_relative _index/fb-plugin.html %}
