@@ -1,0 +1,39 @@
+---
+layout: home
+title: Ramsey Rowing Club
+---
+
+<nav>
+    <div class="nav-wrapper">
+      <a href="#!" class="brand-logo">Logo</a>
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="#about-us">About</a></li>
+        <li><a href="#faqs">FAQs</a></li>
+        <li><a href="#contact-us">Contact</a></li>
+        <li><a href="#useful-documents">Docs</a></li>
+      </ul>
+    </div>
+</nav>
+
+<ul class="sidenav" id="mobile-demo">
+    <li><a href="#about-us">About</a></li>
+    <li><a href="#faqs">FAQs</a></li>
+    <li><a href="#contact-us">Contact</a></li>
+    <li><a href="#useful-documents">Docs</a></li>
+</ul>
+
+{% include_relative _index/fb-script.html %}
+
+{% include parallax-banner.html image="rowers-at-sea.jpg" %}
+
+{% include_relative _index/01-welcome.md %}
+
+{% include_relative _index/fb-plugin.html %}
+
+{% include_relative _index/02-about-us.md %}
+
+{% include_relative _index/03-faq.md %}
+
+{% include_relative _index/04-contact-us.md %}
+

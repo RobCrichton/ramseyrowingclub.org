@@ -1,13 +1,14 @@
  (function($){
    $(function(){
 
-     $('.button-collapse').sideNav();
+     $('.button-collapse,.sidenav').sideNav();
      $('.parallax').parallax();
      $('.collapsible').collapsible();
      $('.carousel.carousel-slider').carousel({fullWidth: true});
      $('.materialboxed').materialbox();
      $('.scrollspy').scrollSpy();
      $('.tap-target').tapTarget('open');
+
 
      if (localStorage.getItem('cookieconsent') === 'true') {
        $('#cookies').hide()
