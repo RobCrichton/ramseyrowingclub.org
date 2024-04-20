@@ -27,7 +27,9 @@ title: Ramsey Rowing Club
 
 {% include parallax-banner.html image="rowers-at-sea.jpg" %}
 
-{% include_relative _index/01-welcome.md | markdownify %}
+{% for page in site.pages %}
+ <p>{{page.name}}</p>
+{% endfor %}
 
 {% include_relative _index/fb-plugin.html %}
 
