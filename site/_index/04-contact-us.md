@@ -1,4 +1,10 @@
-# Contact Us
+---
+heading: Contact Us
+name: Contact
+image: ramsey-shore.jpg
+order: 4
+---
+
 Please forward any queries to info@ramseyrowingclub.org.
 
 Alternatively you can address individual team members below:

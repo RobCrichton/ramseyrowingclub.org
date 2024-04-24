@@ -3,39 +3,37 @@ layout: home
 title: Ramsey Rowing Club
 ---
 
-<nav>
-    <div class="nav-wrapper">
-      <a href="#!" class="brand-logo">Logo</a>
-      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="#about-us">About</a></li>
-        <li><a href="#faqs">FAQs</a></li>
-        <li><a href="#contact-us">Contact</a></li>
-        <li><a href="#useful-documents">Docs</a></li>
-      </ul>
-    </div>
-</nav>
+{% assign sections = site.index | sort: "order" %}
 
+<div class="navbar-fixed">
+  <nav>
+      <div class="nav-wrapper">
+        <a href="#!" class="brand-logo">Logo</a>
+        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+          {% for page in sections %}
+            <li><a href="#{{ page.name | slugify }}">{{ page.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+  </nav>
+</div>
 <ul class="sidenav" id="mobile-demo">
-    <li><a href="#about-us">About</a></li>
-    <li><a href="#faqs">FAQs</a></li>
-    <li><a href="#contact-us">Contact</a></li>
-    <li><a href="#useful-documents">Docs</a></li>
+  {% for page in sections %}
+    <li><a href="#{{ page.name | slugify }}">{{ page.name }}</a></li>
+  {% endfor %}
 </ul>
 
 {% include_relative _index/fb-script.html %}
 
-{% include parallax-banner.html image="rowers-at-sea.jpg" %}
-
-{% for page in site.index %}
- {{page.content | markdownify  }}
+{% for page in sections %}
+  {% include parallax-banner.html image=page.image %}
+  <div class="section white">
+    <div class="row container">
+      <h1 class="header" id="{{ page.name | slugify }}">{{ page.heading }}</h2>
+      {{ page.content | markdownify }}
+    </div>
+  </div>
 {% endfor %}
 
 {% include_relative _index/fb-plugin.html %}
-
-{% include_relative _index/02-about-us.md %}
-
-{% include_relative _index/03-faq.md %}
-
-{% include_relative _index/04-contact-us.md %}
-

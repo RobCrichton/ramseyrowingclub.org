@@ -1,13 +1,13 @@
  (function($){
    $(function(){
-
-     $('.button-collapse,.sidenav').sideNav();
+     //$('.button-collapse').sideNav();
+     $('.sidenav').sidenav();
      $('.parallax').parallax();
-     $('.collapsible').collapsible();
-     $('.carousel.carousel-slider').carousel({fullWidth: true});
-     $('.materialboxed').materialbox();
-     $('.scrollspy').scrollSpy();
-     $('.tap-target').tapTarget('open');
+     //$('.collapsible').collapsible();
+     //$('.carousel.carousel-slider').carousel({fullWidth: true});
+     //$('.materialboxed').materialbox();
+     //$('.scrollspy').scrollSpy();
+     //$('.tap-target').tapTarget('open');
 
 
      if (localStorage.getItem('cookieconsent') === 'true') {

@@ -1,4 +1,10 @@
-# Welcome to Ramsey Rowing Club!
+---
+heading: Welcome to Ramsey Rowing Club!
+name: Welcome
+image: rowers-at-sea.jpg
+order: 1
+---
+
 > Failt ort Sheshaght Ymmyrtee Rhumsaa
 
 Ramsey Rowing Club is the only rowing club in the Isle of Man.

@@ -1,4 +1,10 @@
-# FAQs
+---
+heading: Frequently Asked Quetions
+name: FAQ
+image: ramsey-shore.jpg
+order: 3
+---
+
 ## How does the group work?
 We have a regular weekly outing (on the water) and additional land-based training sessions to help with fitness and to get more out of the outings.
 
