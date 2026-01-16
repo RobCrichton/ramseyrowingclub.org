@@ -16,13 +16,13 @@ We are sorry, but at present we are unable to take under 16’s as members, alth
 ## How much does it cost?
 You are welcome to come along and try a couple of sessions before joining up.
 
-| Class of Membership	| Annual Subscription 	| Monthly subscription
-| ===================   | ===================   | ==================== 
-| Full	                | £180.00 	            | £15.00
+| Class of Membership	| Annual Subscription | Monthly subscription
+| =================== | =================== | ==================== 
+| Full	              | £180.00 	          | £15.00
 | Junior	            | £25.00 	            | Not applicable 
 | Student	            | £25.00 	            | Not applicable 
-| Family	            | £225.00 	            | £18.75 
-| Associate             | £15.00 	            | Not applicable 
+| Family	            | £225.00 	          | £18.75 
+| Associate           | £15.00 	            | Not applicable 
 | Social	            | £15.00 	            | Not applicable 
 
 ## Do you go out in any weather?
