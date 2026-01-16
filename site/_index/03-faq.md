@@ -1,5 +1,5 @@
 ---
-heading: Frequently Asked Quetions
+heading: Frequently Asked Questions
 name: FAQ
 image: ramsey-shore.jpg
 order: 3
