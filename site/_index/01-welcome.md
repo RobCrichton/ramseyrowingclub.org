@@ -12,4 +12,4 @@ We provide a fun atmosphere for recreational rowing and sculling and are open to
 
 We are an affiliated member of British Rowing, the governing body for the sport of rowing in the UK.
 
-We welcome new members from complete beginners to experienced veterans, if you are interested in learning more about joining Ramsey Rowing Club please contact us for more information.
+We welcome new members from complete beginners to experienced veterans, if you are interested in learning more about joining Ramsey Rowing Club please [contact](#contact) us for more information.
