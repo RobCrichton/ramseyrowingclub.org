@@ -15,9 +15,9 @@ At present meet on Sunday at 10:00 am throughout the year although we do occasio
 
 We meet at our 'boat house' on Old River Road. Depending on sea conditions and the experience of the rowers we row on the sea or Mooragh Lake.
 
-<div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249!2d-4.3852416!3d54.325892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTTCsDE5JzMzLjIiTiA0wrAyJzI3LjciVw!5e1!3m2!1sen!2suk!4v1730000000000!5m2!1sen!2suk" 
+    src="https://www.google.com/maps/embed/v1/place?key=&q=54.325892,-4.3852416&zoom=16&maptype=satellite" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
     allowfullscreen="" 
     loading="lazy" 
