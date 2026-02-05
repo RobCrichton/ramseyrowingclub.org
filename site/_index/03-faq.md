@@ -49,7 +49,7 @@ That’s up to you. If you’re keen to progress quickly then land training will
 
 ## Is there a beginners course?
 
-This isn’t a specific course, but we will usually take a new rower out in a double with an experienced rower, or a training scull on the lake initially. We'll help you progress at your own pace. For more information or to sign up, please [contact](#contact) the club’s captain who is always on hand to answer all your rowing questions.
+There isn’t a specific course, but we will usually take a new rower out in a double with an experienced rower, or a training scull on the lake initially. We'll help you progress at your own pace. For more information or to sign up, please [contact](#contact) the club’s captain who is always on hand to answer all your rowing questions.
 
 ## Can anyone row?
 
