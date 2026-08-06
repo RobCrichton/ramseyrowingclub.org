@@ -35,8 +35,6 @@ jobs:
         with:
           source: ./site/
           destination: ./_site
-      - name: Generate CNAME file
-        run: echo "ramseyrowingclub.org" > ./_site/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
