@@ -26,3 +26,6 @@ kramdown:
 
 collections:
   - index
+
+include:
+  - CNAME
