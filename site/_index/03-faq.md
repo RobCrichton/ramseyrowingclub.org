@@ -6,7 +6,7 @@ order: 3
 ---
 ## How does the group work?
 
-We have a regular weekly outing (on the water) and additional land-based training sessions to help with fitness and to get more out of the outings.
+We have a regular weekly outing (on the water).
 
 ## Can anyone join?
 
