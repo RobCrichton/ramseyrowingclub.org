@@ -89,3 +89,13 @@ If you feel unwell because of temporary illness such as cold or fever – wait u
 ## Do I have to complete any forms when I arrive?
 
 You will be required to sign a waiver form when you attend for your first rowing session.
+
+## Privacy/Cookies
+
+This website does not itself use cookies or track visitors. However, the Google Maps location embed and the Facebook page embed on this site are provided by Google and Meta, and they may set their own cookies on your device — see Google's and Meta's own privacy policies for details.
+
+If you email us (info@ramseyrowingclub.org), we use your details only to reply and manage your membership.
+
+Paper membership and health screening forms are kept securely and used only for membership administration and rower safety.
+
+We don't share your data beyond the Club and British Rowing, where required. To see, correct, or delete your data, or for any question, contact info@ramseyrowingclub.org
