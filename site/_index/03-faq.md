@@ -12,8 +12,6 @@ We have a regular weekly outing (on the water) and additional land-based trainin
 
 Any adult of any age who wants to row, and can swim 100 Metres clothed, have no medical or physical condition that would prevent them from taking part in heavy exercise can row with us. We welcome all new members and invite anyone who wishes to try it out to [contact](#contact) us whether it is for sport and fitness or just as a recreational leisure activity. All you need to start is an old pair of training shoes and sport kit. Bear in mind that you may get wet, so you will need to bring a change of clothes.
 
-We are sorry, but at present we are unable to take under 16’s as members, although it is our intention to qualify the club to be able do this as soon as possible.
-
 ## How much does it cost?
 
 You are welcome to come along and try a couple of sessions before joining up.
