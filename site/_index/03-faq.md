@@ -6,13 +6,11 @@ order: 3
 ---
 ## How does the group work?
 
-We have a regular weekly outing (on the water) and additional land-based training sessions to help with fitness and to get more out of the outings.
+We have a regular weekly outing (on the water).
 
 ## Can anyone join?
 
 Any adult of any age who wants to row, and can swim 100 Metres clothed, have no medical or physical condition that would prevent them from taking part in heavy exercise can row with us. We welcome all new members and invite anyone who wishes to try it out to [contact](#contact) us whether it is for sport and fitness or just as a recreational leisure activity. All you need to start is an old pair of training shoes and sport kit. Bear in mind that you may get wet, so you will need to bring a change of clothes.
-
-We are sorry, but at present we are unable to take under 16’s as members, although it is our intention to qualify the club to be able do this as soon as possible.
 
 ## How much does it cost?
 
@@ -91,3 +89,13 @@ If you feel unwell because of temporary illness such as cold or fever – wait u
 ## Do I have to complete any forms when I arrive?
 
 You will be required to sign a waiver form when you attend for your first rowing session.
+
+## Privacy/Cookies
+
+This website does not itself use cookies or track visitors. However, the Google Maps location embed and the Facebook page embed on this site are provided by Google and Meta, and they may set their own cookies on your device — see Google's and Meta's own privacy policies for details.
+
+If you email us (info@ramseyrowingclub.org), we use your details only to reply and manage your membership.
+
+Paper membership and health screening forms are kept securely and used only for membership administration and rower safety.
+
+We don't share your data beyond the Club and British Rowing, where required. To see, correct, or delete your data, or for any question, contact info@ramseyrowingclub.org
