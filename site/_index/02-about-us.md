@@ -1,7 +1,7 @@
 ---
 heading: About Us
 name: About
-image: ramsey-shore.jpg
+image: rowing-the-doubles.JPG
 order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 heading: Contact Us
 name: Contact
-image: ramsey-shore.jpg
+image: rowing-ramsey-millpond.JPG
 order: 4
 ---
 

@@ -1,12 +1,12 @@
 ---
 heading: Welcome to Ramsey Rowing Club!
 name: Welcome
-image: rowers-at-sea.jpg
+image: rowing-mooragh-lake.jpeg
 order: 1
 ---
 > Failt ort Sheshaght Ymmyrtee Rhumsaa
 
-We row from the Mooragh Promenade on Ramsey north beach and on the Mooragh park lake.
+We row from the Mooragh Promenade on Ramsey north beach and on the Mooragh Park lake.
 
 We provide a fun atmosphere for recreational rowing and sculling and are open to all ages and sections of the community.
 

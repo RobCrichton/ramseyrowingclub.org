@@ -1,7 +1,7 @@
 ---
 heading: Frequently Asked Questions
 name: FAQ
-image: ramsey-shore.jpg
+image: rowing-scull-on-beach.JPG
 order: 3
 ---
 ## How does the group work?
