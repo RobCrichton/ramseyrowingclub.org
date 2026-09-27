@@ -5,7 +5,7 @@ image: ramsey-shore.jpg
 order: 2
 ---
 
-Ramsey Rowing Club is affiliated with British Rowing, conforming to the policies of that association and competing in a number of rowing events throughout the year.
+Ramsey Rowing Club is affiliated with British Rowing, conforming to the policies of that association.
 
 ## When we meet
 
